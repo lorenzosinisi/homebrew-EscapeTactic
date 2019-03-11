@@ -4,8 +4,8 @@
 class EscapeTactic < Formula
   desc "MacOS touchbar vibration feedback (Haptic feedback for ESC key)"
   homepage ""
-  url "https://github.com/lorenzosinisi/EscapeTactic/archive/0.0.1.tar.gz"
-  sha256 "0e9754de43abe9d8e229247842078a96eb9595366fef128dd4a0fb98386ffaa8"
+  url "https://github.com/lorenzosinisi/EscapeTactic/archive/0.0.2.tar.gz"
+  sha256 "878d086fc7da0e1d2124a836a13aa6e24d9ce8b2892b3bafc3e62509fe1e97ce"
 
   def install
     bin.install "escape-tactic"
