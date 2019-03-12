@@ -8,6 +8,6 @@ class EscapeTactic < Formula
   sha256 "878d086fc7da0e1d2124a836a13aa6e24d9ce8b2892b3bafc3e62509fe1e97ce"
 
   def install
-    bin.install "escape_tactic"
+    bin.install "bin/EscapeTactic"
   end
 end
